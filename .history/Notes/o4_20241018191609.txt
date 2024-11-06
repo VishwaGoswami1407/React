@@ -1,0 +1,20 @@
+
+//no proper syntax
+// const ReactElement = {
+//   type: 'a',
+//   props: {
+//       href: 'http://google.comt',
+//       target: '_blank',
+
+//   },
+//   children: 'Click me to visit google'
+// }
+
+// const anotherElement = (
+//   <a href='https://github.com/' target='_blank'>GitHub</a>
+// )
+
+ // <MyApp />
+    // <App />
+    // reactElement
+        // anotherElement
