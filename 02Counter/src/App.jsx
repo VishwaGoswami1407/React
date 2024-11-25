@@ -12,9 +12,18 @@ function App() {
       console.log('Counter cannot exceed 20');
       return;
     }
-    counter += 1;
-    // setCounter(counter + 1); second way to update the state
-    setCounter(counter);
+    // counter += 1;
+    // counter += 1;
+    // counter += 1;
+    // counter += 1;
+    // counter += 1;
+    setCounter(counter + 1);
+   setCounter((counter) => counter + 1)
+    // setCounter(counter + 1);
+    // setCounter(counter + 1);
+    // setCounter(counter + 1);if we passed more than one statement like this useset send data in beach its is cont and add only 1 
+    //  second way to update the state
+    // setCounter(counter);
     
     
     console.log('Counter value after adding:', counter);
